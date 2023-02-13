@@ -1,0 +1,4 @@
+As a Dataset used in this project is very large, it is not 
+possible to save it in the server but can be downloaded from:
+
+https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions
